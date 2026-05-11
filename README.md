@@ -34,11 +34,11 @@ NOAA API → Apache NiFi → AWS S3 → PySpark → Analysis & Visualizations
 - Examined extreme weather days to compare weather variability across years.
 
 ## Visualizations
-Add screenshots or exported figures here:
-
-![Monthly Temperature Comparison](figures/monthly_temperature_comparison.png)
-
-![Extreme Weather Days](figures/extreme_weather_days.png)
+![Average Temperatures](figures/Average Temperature Visual.png)
+![Extreme Temperatures](figures/Extreme Temperatures Visual.png)
+![Extreme Weather Days](figures/Frequency of Extreme Weather Days Visual.png)
+![Monthly Average Temperatures](figures/Monthly Average Temperature Visual.png)
+![Monthly Variability](figures/Monthly Variability Visual.png)
 
 ## Future Improvements
 - Automate scheduled data collection.
